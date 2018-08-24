@@ -3,12 +3,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.opencodez</groupId>
-	<artifactId>apache-cxf-ws</artifactId>
+	<groupId>com.javacha.demos</groupId>
+	<artifactId>webservice-soap2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>apache-cxf-ws</name>
+	<name>webservice-soap2</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>

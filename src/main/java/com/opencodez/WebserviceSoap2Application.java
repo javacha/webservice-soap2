@@ -6,8 +6,8 @@ import org.springframework.context.annotation.ImportResource;
 
 @SpringBootApplication
 @ImportResource({ "classpath:webservice-definition-beans.xml" })
-public class Application {
+public class WebserviceSoap2Application {
 	public static void main(String[] args) {
-		SpringApplication.run(Application.class, args);
+		SpringApplication.run(WebserviceSoap2Application.class, args);
 	}
 }
